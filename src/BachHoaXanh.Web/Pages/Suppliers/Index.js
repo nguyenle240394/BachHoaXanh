@@ -21,7 +21,7 @@
                                     text: l('Edit'),
                                     visible: abp.auth.isGranted('BachHoaXanh.Suppliers.Edit'),
                                     action: function (data) {
-                                        editModal.open({ id: data.record.id });
+                                        editModal.open({ Id: data.record.id });
                                     }
                                 },
                                 {
