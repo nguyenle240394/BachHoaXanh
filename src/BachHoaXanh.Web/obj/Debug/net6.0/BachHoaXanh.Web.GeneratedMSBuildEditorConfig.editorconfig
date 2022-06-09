@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BachHoaXanh.Web
+build_property.RootNamespace = BachHoaXanh.Web
+build_property.ProjectDir = D:\BachHoaXanh\src\BachHoaXanh.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\BachHoaXanh\src\BachHoaXanh.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Components/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/BillDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlsbERldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Bills/CreateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlsbHNcQ3JlYXRlTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Bills/EditModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlsbHNcRWRpdE1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Bills/ExcelModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlsbHNcRXhjZWxNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Bills/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlsbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Customers/CreateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXENyZWF0ZU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Customers/EditModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEVkaXRNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Products/CreateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Products/EditModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRWRpdE1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Suppliers/CreataeModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzXENyZWF0YWVNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Suppliers/EditModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzXEVkaXRNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/Suppliers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BachHoaXanh/src/BachHoaXanh.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

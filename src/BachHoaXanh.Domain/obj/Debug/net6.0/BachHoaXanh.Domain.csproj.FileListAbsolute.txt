@@ -1,0 +1,15 @@
+D:\BachHoaXanh\src\BachHoaXanh.Domain\bin\Debug\net6.0\BachHoaXanh.Domain.deps.json
+D:\BachHoaXanh\src\BachHoaXanh.Domain\bin\Debug\net6.0\BachHoaXanh.Domain.dll
+D:\BachHoaXanh\src\BachHoaXanh.Domain\bin\Debug\net6.0\BachHoaXanh.Domain.pdb
+D:\BachHoaXanh\src\BachHoaXanh.Domain\bin\Debug\net6.0\BachHoaXanh.Domain.Shared.dll
+D:\BachHoaXanh\src\BachHoaXanh.Domain\bin\Debug\net6.0\BachHoaXanh.Domain.Shared.pdb
+D:\BachHoaXanh\src\BachHoaXanh.Domain\obj\Debug\net6.0\BachHoaXanh.Domain.csproj.AssemblyReference.cache
+D:\BachHoaXanh\src\BachHoaXanh.Domain\obj\Debug\net6.0\BachHoaXanh.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BachHoaXanh\src\BachHoaXanh.Domain\obj\Debug\net6.0\BachHoaXanh.Domain.AssemblyInfoInputs.cache
+D:\BachHoaXanh\src\BachHoaXanh.Domain\obj\Debug\net6.0\BachHoaXanh.Domain.AssemblyInfo.cs
+D:\BachHoaXanh\src\BachHoaXanh.Domain\obj\Debug\net6.0\BachHoaXanh.Domain.csproj.CoreCompileInputs.cache
+D:\BachHoaXanh\src\BachHoaXanh.Domain\obj\Debug\net6.0\BachHoaXanh.Domain.csproj.CopyComplete
+D:\BachHoaXanh\src\BachHoaXanh.Domain\obj\Debug\net6.0\BachHoaXanh.Domain.dll
+D:\BachHoaXanh\src\BachHoaXanh.Domain\obj\Debug\net6.0\refint\BachHoaXanh.Domain.dll
+D:\BachHoaXanh\src\BachHoaXanh.Domain\obj\Debug\net6.0\BachHoaXanh.Domain.pdb
+D:\BachHoaXanh\src\BachHoaXanh.Domain\obj\Debug\net6.0\ref\BachHoaXanh.Domain.dll

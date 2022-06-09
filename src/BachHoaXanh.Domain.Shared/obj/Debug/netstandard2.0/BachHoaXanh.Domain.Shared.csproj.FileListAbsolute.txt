@@ -1,0 +1,11 @@
+D:\BachHoaXanh\src\BachHoaXanh.Domain.Shared\bin\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.deps.json
+D:\BachHoaXanh\src\BachHoaXanh.Domain.Shared\bin\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.dll
+D:\BachHoaXanh\src\BachHoaXanh.Domain.Shared\bin\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.pdb
+D:\BachHoaXanh\src\BachHoaXanh.Domain.Shared\obj\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.csproj.AssemblyReference.cache
+D:\BachHoaXanh\src\BachHoaXanh.Domain.Shared\obj\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.EmbeddedFilesManifest.cache
+D:\BachHoaXanh\src\BachHoaXanh.Domain.Shared\obj\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\BachHoaXanh\src\BachHoaXanh.Domain.Shared\obj\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.AssemblyInfoInputs.cache
+D:\BachHoaXanh\src\BachHoaXanh.Domain.Shared\obj\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.AssemblyInfo.cs
+D:\BachHoaXanh\src\BachHoaXanh.Domain.Shared\obj\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.csproj.CoreCompileInputs.cache
+D:\BachHoaXanh\src\BachHoaXanh.Domain.Shared\obj\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.dll
+D:\BachHoaXanh\src\BachHoaXanh.Domain.Shared\obj\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.pdb

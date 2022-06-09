@@ -1,0 +1,13 @@
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\bin\Debug\netstandard2.0\BachHoaXanh.Application.Contracts.deps.json
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\bin\Debug\netstandard2.0\BachHoaXanh.Application.Contracts.dll
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\bin\Debug\netstandard2.0\BachHoaXanh.Application.Contracts.pdb
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\bin\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.dll
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\bin\Debug\netstandard2.0\BachHoaXanh.Domain.Shared.pdb
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\obj\Debug\netstandard2.0\BachHoaXanh.Application.Contracts.csproj.AssemblyReference.cache
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\obj\Debug\netstandard2.0\BachHoaXanh.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\obj\Debug\netstandard2.0\BachHoaXanh.Application.Contracts.AssemblyInfoInputs.cache
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\obj\Debug\netstandard2.0\BachHoaXanh.Application.Contracts.AssemblyInfo.cs
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\obj\Debug\netstandard2.0\BachHoaXanh.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\obj\Debug\netstandard2.0\BachHoaXanh.Application.Contracts.csproj.CopyComplete
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\obj\Debug\netstandard2.0\BachHoaXanh.Application.Contracts.dll
+D:\BachHoaXanh\src\BachHoaXanh.Application.Contracts\obj\Debug\netstandard2.0\BachHoaXanh.Application.Contracts.pdb

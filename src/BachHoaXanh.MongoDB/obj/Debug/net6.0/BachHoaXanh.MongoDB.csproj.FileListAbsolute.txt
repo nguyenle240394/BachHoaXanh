@@ -1,0 +1,17 @@
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\bin\Debug\net6.0\BachHoaXanh.MongoDB.deps.json
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\bin\Debug\net6.0\BachHoaXanh.MongoDB.dll
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\bin\Debug\net6.0\BachHoaXanh.MongoDB.pdb
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\bin\Debug\net6.0\BachHoaXanh.Domain.dll
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\bin\Debug\net6.0\BachHoaXanh.Domain.Shared.dll
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\bin\Debug\net6.0\BachHoaXanh.Domain.pdb
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\bin\Debug\net6.0\BachHoaXanh.Domain.Shared.pdb
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\obj\Debug\net6.0\BachHoaXanh.MongoDB.csproj.AssemblyReference.cache
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\obj\Debug\net6.0\BachHoaXanh.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\obj\Debug\net6.0\BachHoaXanh.MongoDB.AssemblyInfoInputs.cache
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\obj\Debug\net6.0\BachHoaXanh.MongoDB.AssemblyInfo.cs
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\obj\Debug\net6.0\BachHoaXanh.MongoDB.csproj.CoreCompileInputs.cache
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\obj\Debug\net6.0\BachHoaXanh.MongoDB.csproj.CopyComplete
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\obj\Debug\net6.0\BachHoaXanh.MongoDB.dll
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\obj\Debug\net6.0\refint\BachHoaXanh.MongoDB.dll
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\obj\Debug\net6.0\BachHoaXanh.MongoDB.pdb
+D:\BachHoaXanh\src\BachHoaXanh.MongoDB\obj\Debug\net6.0\ref\BachHoaXanh.MongoDB.dll
