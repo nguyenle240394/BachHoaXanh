@@ -41,7 +41,7 @@
                                                     abp.message.error(l("NotifyDeleteBill"));
                                                 }
 
-                                            }); 
+                                            });
                                     }
                                 }
                             ]
