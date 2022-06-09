@@ -1,6 +1,4 @@
-﻿
-
-$(function () {
+﻿$(function () {
     var l = abp.localization.getResource('BachHoaXanh');
     var createModal = new abp.ModalManager(abp.appPath + 'Bills/CreateModal');
     var editModal = new abp.ModalManager(abp.appPath + 'Bills/EditModal');

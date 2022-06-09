@@ -1,8 +1,4 @@
-﻿var id = "";
-console.log(id);
-
-
-$(function () {
+﻿$(function () {
     var l = abp.localization.getResource('BachHoaXanh');
     var createModal = new abp.ModalManager(abp.appPath + 'Customers/CreateModal');
     var editModal = new abp.ModalManager(abp.appPath + 'Customers/EditModal');
@@ -15,7 +11,6 @@ $(function () {
             searching: false,
             scrollX: true,
             ajax: abp.libs.datatables.createAjax(bachHoaXanh.customers.customer.getList),
-            id = data.id,
             columnDefs: [
                 {
                     title: l('Actions'),
@@ -46,7 +41,7 @@ $(function () {
                                                     abp.message.error(l("NotifyDeleteBill"));
                                                 }
 
-                                            });
+                                            }); 
                                     }
                                 }
                             ]
